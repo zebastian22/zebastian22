@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sebastian Antony 
 
-<!--
-**zebastian22/zebastian22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Network Engineer with 16+ years of experience in enterprise networking, network security, wireless infrastructure, firewall operations, WAN troubleshooting, and multi-vendor network support.
 
-Here are some ideas to get you started:
+## Core Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cisco Routing & Switching
+- Fortinet FortiGate
+- Palo Alto Firewalls
+- Cisco WLC and Aruba Wireless
+- Meraki
+- BGP, OSPF, VLAN, STP, ACL, NAT
+- VPN and WAN Troubleshooting
+- Network Monitoring and Incident Response
+- Python Automation for Network Engineers
+- AI-assisted NetOps and RCA Workflows
+
+## What I'm Building
+
+- Network troubleshooting playbooks
+- BGP and STP lab notes
+- Firewall and VPN runbooks
+- Network monitoring dashboard
+- AI-assisted network RCA assistant
+- Telecom/Network AI benchmark task samples
+
+## Career Focus
+
+I am focused on senior network engineering, network security, infrastructure operations, cloud connectivity, automation, and AI-assisted network operations roles across enterprise and global environments.
